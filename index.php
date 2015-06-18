@@ -14,6 +14,6 @@
 </head>
 <body>
 	<img id="logo" src="logo_blue.png" alt="logo.png"/>
-	<h1><?php echo "Hello, L&T Folks!!"; ?></h1>
+	<h1><?php echo "Hello, We are L&T Folks!!"; ?></h1>
 </body>
 </html>
