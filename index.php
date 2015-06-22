@@ -14,6 +14,6 @@
 </head>
 <body>
 	<img id="logo" src="logo_blue.png" alt="logo.png"/>
-	<h1><?php echo "Hello GRK, currently I am on Cisco Cloud staging environment!!"; ?></h1>
+	<h1><?php echo "Hello Pulak, currently I am on Cisco Cloud staging environment!!"; ?></h1>
 </body>
 </html>
